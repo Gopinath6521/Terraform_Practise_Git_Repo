@@ -12,6 +12,6 @@ terraform {
 
 # Provider Block
 provider "aws" {
-  region = "us-east-1"  
+  region = "ap-south-1" # Update with your region
   profile = "default" 
 }
